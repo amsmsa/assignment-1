@@ -10,7 +10,11 @@
 }
 
 
-nav{
+.frist{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px 100px;
     
 }
 .cta-button{
